@@ -1,6 +1,6 @@
 # Hi, I'm Mahavir Shah 👋
 
-### Senior Full-Stack Developer
+### Full-Stack Developer
 
 I build web applications, SaaS platforms, ecommerce systems, APIs, and modern frontend experiences.
 
