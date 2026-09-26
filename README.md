@@ -69,10 +69,6 @@ My work includes ecommerce platform connectors, tenant administration, billing a
 * Enterprise Applications
 * Mobile Applications
 
-## Featured Work
-
-Check out my pinned repositories and project work below.
-
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/mahavir-shah-54802717a/)
