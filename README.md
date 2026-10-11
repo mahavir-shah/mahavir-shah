@@ -73,6 +73,6 @@ My work includes ecommerce platform connectors, tenant administration, billing a
 
 [LinkedIn](https://www.linkedin.com/in/mahavir-shah-54802717a/)
 
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio](https://mahavir-shah.vercel.app/)
 
 [Email](mailto:shahmahavir37@gmail.com)
